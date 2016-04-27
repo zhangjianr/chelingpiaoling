@@ -1,0 +1,2070 @@
+[ 2016-04-15T09:23:09+08:00 ] 192.168.1.106 /Public/css/bootslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T09:23:09+08:00 ] 192.168.1.106 /Public/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T09:23:09+08:00 ] 192.168.1.106 /Public/js/jquery.grozav.plugins.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T09:23:09+08:00 ] 192.168.1.106 /Public/js/jquery.grozav.bootslider.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T09:23:09+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/cui.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/less.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/expect-product1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/expect-product3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/expect-product2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/dbb662c2fefb4a18ab020df572c67122.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/getscript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/map.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/expect-product4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/case3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/logo_small.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/case2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/case10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/case9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/case4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/case1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/case5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/case6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/images/144514M34K0-103F9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/images/144514M33K0-Q934.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/images/144514M3130-A464.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:21:47+08:00 ] 192.168.1.106 /dedecms/images/144514M30130-41Q9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/expect-product1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/expect-product2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/expect-product3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/expect-product4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/case3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/logo_small.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/case2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/case9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/case10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/case4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/case1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/case5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/case6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:23:49+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/expect-product1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/expect-product2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/expect-product3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/expect-product4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/case3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/logo_small.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/case2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/case10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/case9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:15+08:00 ] 192.168.1.106 /dedecms/case4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:16+08:00 ] 192.168.1.106 /dedecms/case1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:16+08:00 ] 192.168.1.106 /dedecms/case5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:16+08:00 ] 192.168.1.106 /dedecms/case6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:16+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/expect-product1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/expect-product2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/expect-product3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/expect-product4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/logo_small.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/case2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/case10.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/case9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/case4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/case1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/case5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/case6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:24:49+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:25:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/expect-product1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/expect-product2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/expect-product3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/expect-product4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:25:48+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:17+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:17+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:17+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:17+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:17+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:17+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:17+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/expect-product1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/expect-product2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/expect-product3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/expect-product4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:18+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:58+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:59+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:59+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:59+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:27:59+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000034s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:00+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:01+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000036s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:39+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:41+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /dedecms/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:43+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:44+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:44+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:28:44+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:23+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:43+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:29:44+08:00 ] 192.168.1.106 /dedecms/side_icon03.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:44+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:44+08:00 ] 192.168.1.106 /dedecms/side_icon01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:44+08:00 ] 192.168.1.106 /dedecms/side_icon02.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:44+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:29:44+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /dedecms/r_icon1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:30:37+08:00 ] 192.168.1.106 /dedecms/r_icon2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/lib.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/flexslider.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /Public/piaoling/dedecms/banner.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:31:13+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:32:00+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:32:00+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:32:00+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:32:00+08:00 ] 192.168.1.106 /dedecms/ewm.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:32:00+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:32:45+08:00 ] 192.168.1.106 /dedecms/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:32:45+08:00 ] 192.168.1.106 /dedecms/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T10:32:45+08:00 ] 192.168.1.106 /dedecms/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Dedecms
+
+[ 2016-04-15T11:54:07+08:00 ] 192.168.1.106 /Public/static/h-ui/css/__PUBLIC__/piaoling/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-15T12:12:03+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-15T15:38:33+08:00 ] 192.168.1.106 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-15T16:01:49+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-15T16:13:50+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-15T17:45:55+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-15T18:35:11+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Favicon
+

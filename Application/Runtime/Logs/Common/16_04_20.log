@@ -1,0 +1,168 @@
+[ 2016-04-20T09:01:39+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-20T14:10:28+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/right.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:10:28+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/case2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:10:28+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:10:28+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/case3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:10:48+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:11:14+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/right.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:11:14+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/bbs.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:11:21+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/bbs.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:11:25+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/bbs.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T14:11:44+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/bbs.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T16:15:53+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/notice.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T16:15:53+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/notice.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T16:16:04+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/notice.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T16:16:24+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/notice.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T17:03:14+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-20T17:03:17+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-20T17:03:17+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-20T17:03:17+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-20T17:04:07+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-20T17:05:18+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/banner3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T17:05:18+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/banner1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T17:06:57+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T17:07:01+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T17:09:01+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T17:09:08+08:00 ] 192.168.1.106 /Public/lib/webuploader/0.1.5/server/upload/banner2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-20T17:15:44+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-20T17:19:02+08:00 ] 192.168.1.106 /product1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Product1
+

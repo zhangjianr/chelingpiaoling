@@ -1,0 +1,426 @@
+[ 2016-04-13T09:14:09+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-13T09:18:12+08:00 ] 192.168.1.106 /wp-content/uploads/2014/07/slide1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+ERR: 无法加载模块:Wp-content
+
+[ 2016-04-13T09:18:12+08:00 ] 192.168.1.106 /wp-content/uploads/2014/07/slide2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Wp-content
+
+[ 2016-04-13T09:18:12+08:00 ] 192.168.1.106 /wp-content/uploads/2014/07/slide3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+ERR: 无法加载模块:Wp-content
+
+[ 2016-04-13T10:02:44+08:00 ] 192.168.1.106 /Public/piaoling/Carousel-img2.jp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T10:02:44+08:00 ] 192.168.1.106 /wp-content/uploads/2014/07/slide3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Wp-content
+
+[ 2016-04-13T10:03:25+08:00 ] 192.168.1.106 /Public/piaoling/Carousel-img2.jp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T10:03:25+08:00 ] 192.168.1.106 /wp-content/uploads/2014/07/slide3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Wp-content
+
+[ 2016-04-13T10:03:50+08:00 ] 192.168.1.106 /Public/piaoling/Carousel-img2.jp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T10:03:50+08:00 ] 192.168.1.106 /wp-content/uploads/2014/07/slide3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Wp-content
+
+[ 2016-04-13T10:04:32+08:00 ] 192.168.1.106 /Public/piaoling/Carousel-img2.jp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T10:04:32+08:00 ] 192.168.1.106 /wp-content/uploads/2014/07/slide3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Wp-content
+
+[ 2016-04-13T11:45:20+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /_PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:_PUBLIC__
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /js/jquery.grozav.plugins.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Js
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /js/jquery.grozav.bootslider.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+ERR: 无法加载模块:Js
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /img/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /img/slide-4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /img/fixedheight-slide-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /img/fixedheight-slide-2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /img/fixedheight-slide-3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /img/slide-5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:01:54+08:00 ] 192.168.1.106 /img/slide-6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:02:37+08:00 ] 192.168.1.106 /_PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:_PUBLIC__
+
+[ 2016-04-13T12:02:37+08:00 ] 192.168.1.106 /js/jquery.grozav.plugins.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Js
+
+[ 2016-04-13T12:02:37+08:00 ] 192.168.1.106 /img/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:02:37+08:00 ] 192.168.1.106 /js/jquery.grozav.bootslider.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Js
+
+[ 2016-04-13T12:02:37+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:02:37+08:00 ] 192.168.1.106 /img/slide-5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:02:37+08:00 ] 192.168.1.106 /img/slide-6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:03:43+08:00 ] 192.168.1.106 /_PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:_PUBLIC__
+
+[ 2016-04-13T12:03:43+08:00 ] 192.168.1.106 /img/loader.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:03:43+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:03:43+08:00 ] 192.168.1.106 /img/slide-5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:03:43+08:00 ] 192.168.1.106 /img/slide-6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:03:45+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:03:45+08:00 ] 192.168.1.106 /img/slide-5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:03:45+08:00 ] 192.168.1.106 /img/slide-6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:50:59+08:00 ] 192.168.1.106 /_PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:_PUBLIC__
+
+[ 2016-04-13T12:50:59+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:50:59+08:00 ] 192.168.1.106 /img/slide-5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:50:59+08:00 ] 192.168.1.106 /img/slide-6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:51:11+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:51:11+08:00 ] 192.168.1.106 /img/slide-5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:51:11+08:00 ] 192.168.1.106 /img/slide-6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:52:07+08:00 ] 192.168.1.106 /_PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:_PUBLIC__
+
+[ 2016-04-13T12:52:07+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:52:08+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:52:25+08:00 ] 192.168.1.106 /_PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:_PUBLIC__
+
+[ 2016-04-13T12:52:25+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T12:52:31+08:00 ] 192.168.1.106 /img/slide-4-layer-1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Img
+
+[ 2016-04-13T16:25:38+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011683s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-13T18:14:49+08:00 ] 192.168.1.106 /Public/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T18:14:49+08:00 ] 192.168.1.106 /Public/css/bootslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T18:14:49+08:00 ] 192.168.1.106 /Public/js/jquery.grozav.plugins.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T18:14:49+08:00 ] 192.168.1.106 /Public/js/jquery.grozav.bootslider.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T18:15:44+08:00 ] 192.168.1.106 /Public/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T18:15:44+08:00 ] 192.168.1.106 /Public/css/bootslider.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T18:15:44+08:00 ] 192.168.1.106 /Public/js/jquery.grozav.plugins.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T18:15:44+08:00 ] 192.168.1.106 /Public/js/jquery.grozav.bootslider.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-13T18:20:51+08:00 ] 192.168.1.106 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-13T18:38:30+08:00 ] 192.168.1.106 /picture-add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+ERR: 无法加载模块:Picture-add
+
+[ 2016-04-13T18:55:58+08:00 ] 192.168.1.106 /picture-list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+ERR: 无法加载模块:Picture-list
+
+[ 2016-04-13T18:56:18+08:00 ] 192.168.1.106 /pictureList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+ERR: 无法加载模块:PictureList
+
+[ 2016-04-13T18:57:00+08:00 ] 192.168.1.106 /picture-list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+ERR: 无法加载模块:Picture-list
+
+[ 2016-04-13T18:58:53+08:00 ] 192.168.1.106 /picture-list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+ERR: 无法加载模块:Picture-list
+
+[ 2016-04-13T18:59:31+08:00 ] 192.168.1.106 /Index/pictureList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-13T19:00:02+08:00 ] 192.168.1.106 /Index/pictureList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-13T19:00:04+08:00 ] 192.168.1.106 /Index/picture
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-13T19:00:58+08:00 ] 192.168.1.106 /pictureList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:PictureList
+
